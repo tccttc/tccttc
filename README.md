@@ -1,3 +1,4 @@
+# About me
 👋 Hi, I’m Marco Hung (@tccttc), a fourth year Computer Engineering & Financial Engineering Student at HKUST.
 
 I’m deeply passionate about the intersection of Artificial Intelligence, Data Science, and Financial Engineering, and I thrive on applying technical solutions to solve complex real-world problems in finance and business. I hava a solid background in programming
